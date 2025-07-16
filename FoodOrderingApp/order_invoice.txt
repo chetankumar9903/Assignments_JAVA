@@ -1,0 +1,672 @@
+
+================== ORDER INVOICE ==================
+Customer: Chetan
+Phone   : 9876543210
+Address : VJTI College
+Email   : chetan@example.com
+
+Order ID    : O001
+Order Time  : 08:03 PM
+ETA         : 09:03 PM
+Status      : DELIVERED
+Instructions: make it tasty
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         4          ₹150.00    ₹600.00   
+Masala Chai          3          ₹30.00     ₹90.00    
+Butter Chicken       5          ₹250.00    ₹1250.00  
+
+ Payment Info:
+Mode     : UPI
+Ref ID   : PAY-EB69B67A
+Time     : 09 Jul 2025, 08:04 PM
+Subtotal : ₹1940.00
+Discount : ₹194.00
+Total    : ₹1746.00
+
+ Delivered By: Swiggy (com.aurionpro.delivery.SwiggyAgent@3339ad8e)
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: Chetan
+Phone   : 9876543210
+Address : VJTI College
+Email   : chetan@example.com
+
+Order ID    : O001
+Order Time  : 08:07 PM
+ETA         : 08:42 PM
+Status      : PREPARING
+Instructions: -
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Margherita Pizza     1          ₹220.00    ₹220.00   
+
+ Payment Info:
+Mode     : CASH (Due)
+Ref ID   : PAY-31493FD6
+Time     : 09 Jul 2025, 08:07 PM
+Subtotal : ₹220.00
+Discount : ₹0.00
+Total    : ₹220.00
+
+ Delivered By: Zomato
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: Chetan
+Phone   : 9876543210
+Address : VJTI College
+Email   : chetan@example.com
+
+Order ID    : O001
+Order Time  : 11:16 PM
+ETA         : 12:21 AM
+Status      : DELIVERED
+Instructions: tasty
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         3          ₹150.00    ₹450.00   
+Gulab Jamun          4          ₹70.00     ₹280.00   
+Butter Chicken       4          ₹250.00    ₹1000.00  
+
+ Payment Info:
+Mode     : UPI
+Ref ID   : PAY-0A5B962C
+Time     : 09 Jul 2025, 11:17 PM
+Subtotal : ₹1730.00
+Discount : ₹173.00
+Delivery Fee : ₹30.00
+Total    : ₹1587.00
+
+ Delivered By: Swiggy
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: Chetan
+Phone   : 9876543210
+Address : VJTI College
+Email   : chetan@example.com
+
+Order ID    : O001
+Order Time  : 11:19 PM
+ETA         : 12:04 AM
+Status      : PREPARING
+Instructions: -
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Spring Rolls         3          ₹130.00    ₹390.00   
+Lemon Ice Tea        2          ₹60.00     ₹120.00   
+Chow Mein            2          ₹180.00    ₹360.00   
+
+ Payment Info:
+Mode     : CARD
+Ref ID   : PAY-3A8F5C6E
+Time     : 09 Jul 2025, 11:19 PM
+Subtotal : ₹870.00
+Discount : ₹87.00
+Delivery Fee : ₹30.00
+Total    : ₹813.00
+
+ Delivered By: Zomato
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: Chetan
+Phone   : 9876543210
+Address : VJTI College
+Email   : chetan@example.com
+
+Order ID    : O001
+Order Time  : 11:21 PM
+ETA         : 11:56 PM
+Status      : PREPARING
+Instructions: -
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         1          ₹150.00    ₹150.00   
+
+ Payment Info:
+Mode     : CASH (Due)
+Ref ID   : PAY-8B7BB8F2
+Time     : 09 Jul 2025, 11:21 PM
+Subtotal : ₹150.00
+Discount : ₹0.00
+Delivery Fee : ₹30.00
+Total    : ₹180.00
+
+ Delivered By: Zomato
+======================================================
+
+new one --------------------------------
+
+================== ORDER INVOICE ==================
+Customer: chetan
+Phone   : 1234565432
+Address : vhti
+Email   : eg@gmail.com
+
+Order ID    : O001
+Order Time  : 11:32 PM
+ETA         : 12:07 AM
+Status      : PREPARING
+Instructions: -
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         2          ₹150.00    ₹300.00   
+
+ Payment Info:
+Mode     : UPI
+Ref ID   : PAY-F0CB9596
+Time     : 09 Jul 2025, 11:32 PM
+Subtotal : ₹300.00
+Discount : ₹0.00
+Delivery Fee : ₹30.00
+Total    : ₹330.00
+
+ Delivered By: Zomato
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: chert
+Phone   : 6666666666
+Address : vjti
+Email   : h@gmail.com
+
+Order ID    : O001
+Order Time  : 11:38 PM
+ETA         : 12:33 AM
+Status      : DELIVERED
+Instructions: -
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         3          ₹150.00    ₹450.00   
+Bruschetta           3          ₹120.00    ₹360.00   
+Tiramisu             5          ₹150.00    ₹750.00   
+
+ Payment Info:
+Mode     : CASH (Due)
+Ref ID   : PAY-0A587CEC
+Time     : 09 Jul 2025, 11:39 PM
+Subtotal : ₹1560.00
+Discount : ₹156.00
+Delivery Fee : ₹30.00
+Total    : ₹1434.00
+
+ Delivered By: Zomato
+======================================================
+
+
+------------------------------- PROPER FORMAT---------------------------
+
+
+================== ORDER INVOICE ==================
+Customer: Chetan
+Phone   : 8899990357
+Address : vjti hostel
+Email   : chetan@gmail.com
+
+Order ID    : O001
+Order Time  : 12:44 AM
+ETA         : 01:58 AM
+Status      : DELIVERED
+Instructions: make these less spicy
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         4          ₹150.00    ₹600.00   
+Chow Mein            3          ₹180.00    ₹540.00   
+Lemon Ice Tea        3          ₹60.00     ₹180.00   
+Miso Soup            5          ₹120.00    ₹600.00   
+Mochi                1          ₹130.00    ₹130.00   
+Tacos                4          ₹180.00    ₹720.00   
+
+ Payment Info:
+Mode     : CARD
+Ref ID   : PAY-D382D77E
+Time     : 10 Jul 2025, 12:46 AM
+Subtotal : ₹2770.00
+Discount : ₹277.00
+Delivery Fee : ₹30.00
+Total    : ₹2523.00
+
+ Delivered By: Zomato
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: chetan
+Phone   : 8899990357
+Address : vjti
+Email   : vhetan@gmail.com
+
+Order ID    : O001
+Order Time  : 03:46 PM
+ETA         : 04:33 PM
+Status      : DELIVERED
+Instructions: tasty
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         4          ₹150.00    ₹600.00   
+Masala Chai          2          ₹30.00     ₹60.00    
+Nachos               3          ₹140.00    ₹420.00   
+
+ Payment Info:
+Mode     : CARD
+Ref ID   : PAY-F57EAEF8
+Time     : 10 Jul 2025, 03:46 PM
+Subtotal : ₹1080.00
+Discount : ₹108.00
+Delivery Fee : ₹30.00
+Total    : ₹1002.00
+
+ Delivered By: Swiggy
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: Chetan
+Phone   : 8899999909
+Address : vjti
+Email   : h@gmail.com
+
+Order ID    : O001
+Order Time  : 10:02 PM
+ETA         : 11:27 PM
+Status      : DELIVERED
+Instructions: make it tasty
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         4          ₹150.00    ₹600.00   
+Masala Chai          2          ₹30.00     ₹60.00    
+Tacos                3          ₹180.00    ₹540.00   
+Creme Brulee         2          ₹160.00    ₹320.00   
+Grilled Chicken      4          ₹300.00    ₹1200.00  
+
+ Payment Info:
+Mode     : CARD
+Ref ID   : PAY-7C7D7F83
+Time     : 10 Jul 2025, 10:03 PM
+Subtotal : ₹2720.00
+Discount : ₹272.00
+Delivery Fee : ₹34.00
+Total    : ₹2482.00
+
+ Delivered By: Zomato-Z2
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: rahul
+Phone   : 3454323456
+Address : hostel
+Email   : f@gmail.com
+
+Order ID    : O002
+Order Time  : 10:10 PM
+ETA         : 11:12 PM
+Status      : PREPARING
+Instructions: add extra paneer
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         4          ₹150.00    ₹600.00   
+Gulab Jamun          2          ₹70.00     ₹140.00   
+Chow Mein            4          ₹180.00    ₹720.00   
+Horchata             4          ₹70.00     ₹280.00   
+
+ Payment Info:
+Mode     : CASH (Due)
+Ref ID   : PAY-F7D214E0
+Time     : 10 Jul 2025, 10:10 PM
+Subtotal : ₹1740.00
+Discount : ₹174.00
+Delivery Fee : ₹34.00
+Total    : ₹1600.00
+
+ Delivered By: Swiggy
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: chetan
+Phone   : 3454323456
+Address : ddd
+Email   : dd@gmail.com
+
+Order ID    : O001
+Order Time  : 10:29 PM
+ETA         : 11:14 PM
+Status      : PREPARING
+Instructions: tastty
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         1          ₹150.00    ₹150.00   
+Gulab Jamun          1          ₹70.00     ₹70.00    
+
+ Payment Info:
+Mode     : CASH (Due)
+Ref ID   : PAY-7F7B25E8
+Time     : 10 Jul 2025, 10:29 PM
+Subtotal : ₹220.00
+Discount : ₹0.00
+Delivery Fee : ₹30.00
+Total    : ₹250.00
+
+ Delivered By: EatClub
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: ddd
+Phone   : 3333333333
+Address : eddd
+Email   : dd@gmail.com
+
+Order ID    : O003
+Order Time  : 10:36 PM
+ETA         : 11:11 PM
+Status      : DELIVERED
+Instructions: e
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         1          ₹150.00    ₹150.00   
+
+ Payment Info:
+Mode     : CASH (Due)
+Ref ID   : PAY-3DB78E4C
+Time     : 10 Jul 2025, 10:36 PM
+Subtotal : ₹150.00
+Discount : ₹0.00
+Delivery Fee : ₹30.00
+Total    : ₹180.00
+
+ Delivered By: Swiggy
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: eee
+Phone   : 3333333333
+Address : eee
+Email   : e@gmail.com
+
+Order ID    : O001
+Order Time  : 10:59 PM
+ETA         : 11:34 PM
+Status      : PREPARING
+Instructions: ee
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         1          ₹150.00    ₹150.00   
+
+ Payment Info:
+Mode     : CASH (Due)
+Ref ID   : PAY-34FC5F29
+Time     : 10 Jul 2025, 10:59 PM
+Subtotal : ₹150.00
+Discount : ₹0.00
+Delivery Fee : ₹30.00
+Total    : ₹180.00
+
+ Delivered By: EatClub
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: 222
+Phone   : 3333333333
+Address : www
+Email   : c@gmail.com
+
+Order ID    : O001
+Order Time  : 11:03 PM
+ETA         : 11:38 PM
+Status      : PREPARING
+Instructions: ee
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         1          ₹150.00    ₹150.00   
+
+ Payment Info:
+Mode     : CASH (Due)
+Ref ID   : PAY-D974746E
+Time     : 10 Jul 2025, 11:03 PM
+Subtotal : ₹150.00
+Discount : ₹0.00
+Delivery Fee : ₹30.00
+Total    : ₹180.00
+
+ Delivered By: Swiggy
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: www
+Phone   : 3333333333
+Address : ddd
+Email   : d@gmail.com
+
+Order ID    : O001
+Order Time  : 11:12 PM
+ETA         : 11:47 PM
+Status      : PREPARING
+Instructions: ee
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         1          ₹150.00    ₹150.00   
+
+ Payment Info:
+Mode     : CASH (Due)
+Ref ID   : PAY-23FF7B50
+Time     : 10 Jul 2025, 11:12 PM
+Subtotal : ₹150.00
+Discount : ₹0.00
+Delivery Fee : ₹30.00
+Total    : ₹180.00
+
+ Delivered By: Swiggy
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: ee
+Phone   : 3333333333
+Address : ed
+Email   : dd@gmail.com
+
+Order ID    : O001
+Order Time  : 11:16 PM
+ETA         : 11:51 PM
+Status      : PREPARING
+Instructions: 1\ss
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         1          ₹150.00    ₹150.00   
+
+ Payment Info:
+Mode     : CASH (Due)
+Ref ID   : PAY-5F607C83
+Time     : 10 Jul 2025, 11:16 PM
+Subtotal : ₹150.00
+Discount : ₹0.00
+Delivery Fee : ₹30.00
+Total    : ₹180.00
+
+ Delivered By: Swiggy
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: eee
+Phone   : 3333333333
+Address : sdd
+Email   : s@gmail.com
+
+Order ID    : O001
+Order Time  : 11:19 PM
+ETA         : 11:54 PM
+Status      : PREPARING
+Instructions: ss
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Margherita Pizza     1          ₹220.00    ₹220.00   
+
+ Payment Info:
+Mode     : CASH (Due)
+Ref ID   : PAY-310FD3C6
+Time     : 10 Jul 2025, 11:19 PM
+Subtotal : ₹220.00
+Discount : ₹0.00
+Delivery Fee : ₹30.00
+Total    : ₹250.00
+
+ Delivered By: Swiggy
+======================================================
+-----------------------------------NEw ONE ------------------------------------
+
+
+================== ORDER INVOICE ==================
+Customer: Chetan Kumar
+Phone   : 8899990000
+Address : vjti
+Email   : chetan@gmail.com
+
+Order ID    : O001
+Order Time  : 12:29 AM
+Delivery Time: 01:46 AM
+Status      : DELIVERED
+Instructions: make it tasty
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         4          ₹150.00    ₹600.00   
+Masala Chai          2          ₹30.00     ₹60.00    
+Margherita Pizza     3          ₹220.00    ₹660.00   
+Tiramisu             3          ₹150.00    ₹450.00   
+Apple Pie            5          ₹150.00    ₹750.00   
+
+ Payment Info:
+Mode     : UPI
+Ref ID   : PAY-08AAC692
+Time     : 11 Jul 2025, 12:31 AM
+Subtotal : ₹2520.00
+Discount : ₹252.00
+Delivery Fee : ₹30.00
+Total    : ₹2298.00
+
+ Delivered By: Zomato
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: Rahul
+Phone   : 1234567899
+Address : delhi
+Email   : rahul@gmail.com
+
+Order ID    : O002
+Order Time  : 12:32 AM
+Delivery Time: 01:27 AM
+Status      : DELIVERED
+Instructions: give extra
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         4          ₹150.00    ₹600.00   
+Butter Chicken       3          ₹250.00    ₹750.00   
+
+ Payment Info:
+Mode     : CASH (Due)
+Ref ID   : PAY-DBE79C9F
+Time     : 11 Jul 2025, 12:33 AM
+Subtotal : ₹1350.00
+Discount : ₹135.00
+Delivery Fee : ₹30.00
+Total    : ₹1245.00
+
+ Delivered By: Zomato
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: aman
+Phone   : 3333444455
+Address : jammu
+Email   : aman@gmai.com
+
+Order ID    : O003
+Order Time  : 12:36 AM
+Delivery Time: 01:41 AM
+Status      : PREPARING
+Instructions: none
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         4          ₹150.00    ₹600.00   
+Grilled Chicken      3          ₹300.00    ₹900.00   
+Gulab Jamun          1          ₹70.00     ₹70.00    
+
+ Payment Info:
+Mode     : CARD
+Ref ID   : PAY-FA0181E7
+Time     : 11 Jul 2025, 12:37 AM
+Subtotal : ₹1570.00
+Discount : ₹157.00
+Delivery Fee : ₹40.00
+Total    : ₹1453.00
+
+ Delivered By: EatClub
+======================================================
+
+
+================== ORDER INVOICE ==================
+Customer: Chetan
+Phone   : 8888888888
+Address : hostel
+Email   : chetan@gmail.com
+
+Order ID    : O001
+Order Time  : 11:37 AM
+Delivery Time: 12:22 PM
+Status      : DELIVERED
+Instructions: tasty
+
+Ordered Items:
+Item                 Qty        Unit ₹     Total ₹   
+Paneer Tikka         3          ₹150.00    ₹450.00   
+Gulab Jamun          1          ₹70.00     ₹70.00    
+
+ Payment Info:
+Mode     : UPI
+Ref ID   : PAY-396DB2D1
+Time     : 11 Jul 2025, 11:38 AM
+Subtotal : ₹520.00
+Discount : ₹52.00
+Delivery Fee : ₹30.00
+Total    : ₹498.00
+
+ Delivered By: Swiggy
+======================================================
+
