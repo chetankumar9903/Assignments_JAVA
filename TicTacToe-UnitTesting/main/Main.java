@@ -4,11 +4,6 @@ import java.util.Scanner;
 
 public class Main {
 	public static void main(String[] args) {
-//        Player p1 = new Player("Alice", Mark.X);
-//        Player p2 = new Player("Bob", Mark.O);
-//
-//        Game game = new Game(p1, p2);
-//        game.play();
 
 		Scanner sc = new Scanner(System.in);
 		TicTacToeGame game = new TicTacToeGame("Alice", "Bob");
