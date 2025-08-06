@@ -22,7 +22,8 @@ public class TeacherController {
 			System.out.println("5. Search a Teacher");
 			System.out.println("6. Delete a Teacher");
 			System.out.println("7. Remove A Subject");
-			System.out.println("8. Exit");
+			System.out.println("8. Assign marks to student");
+			System.out.println("9. Exit");
 			System.out.print("Enter your choice: ");
 			int choice = scanner.nextInt();
 			scanner.nextLine(); // consume newline
@@ -169,7 +170,17 @@ public class TeacherController {
 					System.out.println("Subject with ID: " + subjectId + " doesnt exists for Teacher Id : "+teacherId);
 				}
 				break;
-			case 8:
+			case 8 :
+				System.out.println("Enter Student Id to assign marks");
+                int studentId = scanner.nextInt();
+                rowsAffected = teacherService.assignMarksToStudent(studentId);
+                if (rowsAffected > 0) {
+					System.out.println("Marks successfully assigned to Student Id : "+studentId);
+				} else {
+					System.out.println("Marks could not be assigned");
+				}
+				break;
+			case 9:
 				System.out.println("Exiting...");
 				return;
 			default:
