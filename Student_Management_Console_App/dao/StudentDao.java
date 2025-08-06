@@ -15,7 +15,7 @@ public class StudentDao {
     }
 
     public void addStudent(Student student) {
-        String studentQuery = "INSERT INTO students (roll_no, student_name, age, percentage) VALUES (?, ?, ?, ?)";
+        String studentQuery = "INSERT INTO students (roll_no, student_name, age) VALUES (?, ?, ?)";
         String profileQuery = "INSERT INTO student_profile (student_id, city, mobile_no) VALUES (?, ?, ?)";
 
         try (
@@ -27,7 +27,7 @@ public class StudentDao {
             stmtStudent.setInt(1, student.getRollNo());
             stmtStudent.setString(2, student.getStudentName());
             stmtStudent.setInt(3, student.getAge());
-            stmtStudent.setDouble(4, student.getPercentage());
+           // stmtStudent.setDouble(4, student.getPercentage());
             
 
             int rows = stmtStudent.executeUpdate();
@@ -292,3 +292,4 @@ public class StudentDao {
     }
 
 }
+
